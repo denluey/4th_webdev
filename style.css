@@ -1,0 +1,39 @@
+body {
+	background-image: url('https://cdn.5280.com/2019/08/ADX-FLorence_AP-Images.jpg');
+   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+background-position: center
+}
+
+
+
+p {
+	background: black;
+	
+}
+
+#specialp {
+	font-weight: bold;
+	text-decoration: underline;
+	color: blue;
+}
+
+.emphasis {
+	font-family: monospace;
+}
+
+.superEmphasis {
+	color: orange;
+	width: 600px;
+	display: inline-block;}
+
+.comicEmphasis {
+	color: orange;
+	width: 500px;
+	display: inline-block;}
+
+.bdt {
+	border: 5px solid #555;
+}
+
